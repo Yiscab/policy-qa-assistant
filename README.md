@@ -19,7 +19,6 @@ Example:
 - Python 3.11  
 - OpenAI API (GPT-3.5-turbo + Embeddings)  
 - Streamlit for UI  
-- pdfplumber for PDF to text conversion  
 - scikit-learn for cosine similarity  
 - python-dotenv for managing API keys  
 
