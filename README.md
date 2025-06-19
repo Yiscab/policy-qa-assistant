@@ -83,8 +83,10 @@ streamlit run app.py
 ---
 
 ## 🌐 Live Demo
-*Click here to open the app*  
-(https://6df63fa3-085c-487d-a4f0-5145a083bbfc-00-tmi8knx8ff2t.pike.replit.dev/)
+[Try the App](https://6df63fa3-085c-487d-a4f0-5145a083bbfc-00-tmi8knx8ff2t.pike.replit.dev/)
+
+## GitHub Repository
+[view on GitHub](https://github.com/Yiscab/policy-qa-assistant)
 
 ---
 
