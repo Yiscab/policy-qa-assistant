@@ -1,0 +1,66 @@
+MarkAIting Pro – Remote Work Policy 
+Version 1.0 – Effective  2025‑06‑12 
+1  Introduction 
+MarkAIting Pro (“the Company”) supports flexible working arrangements that balance employee 
+well‑being with business productivity. This policy outlines eligibility, expectations and resources 
+for effective remote work. 
+2  Purpose 
+●  Define criteria for working remotely; 
+ 
+●  Ensure consistent communication and performance standards; 
+ 
+●  Protect Company information assets when accessed off‑site. 
+ 
+3  Scope 
+Applies to all employees who work off Company premises for ≥ 1 day per week or ad hoc with 
+manager approval. 
+4  Eligibility Criteria 
+1.  Minimum tenure of 3 months with “Meets Expectations” performance rating. 
+ 
+2.  Adequate home workspace: quiet, ergonomic, secure. 
+ 
+3.  Reliable internet ≥ 50 Mbps down / 5 Mbps up. 
+ 
+4.  Completion of Remote‑Work Security Training (score ≥ 90 %). 
+ 
+5  Work Hours & Availability 
+Requirement  Standard  Notes 
+Core hours  09:00–16:00 IDT  Team meetings scheduled here. 
+Daily status update  By 09:30  Post in #daily‑standup Slack 
+channel. 
+Response time (IM/email)  ≤ 30 min  During core hours. 
+Flexible hours outside the core block are permitted if 40 h / week is maintained. 
+6  Equipment & IT Security 
+1.  Company‑issued laptop with up‑to‑date OS & endpoint protection. 
+ 
+2.  VPN required for all internal systems; MFA enforced. 
+ 
+3.  Confidential documents must not be printed at home unless approved. 
+ 
+7  Communication & Collaboration 
+1.  Video on for team meetings unless bandwidth issues. 
+ 
+2.  Use Slack for quick questions (< 5 min), email for tasks > 30 min, and Asana for project 
+tracking. 
+ 
+3.  Managers hold weekly 1‑on‑1s; missed sessions must be rescheduled within 48 h. 
+ 
+8  Expense Coverage 
+Item  Allowance  Reimbursement Cycle 
+One‑time workspace  ₪ 1 500  Submit receipts within 30 days of 
+set‑up  purchase. 
+Monthly internet  ₪ 100  Auto‑credited upon bill upload. 
+Office ergonomics refresh  ₪ 750 every  Chair / monitor upgrades. 
+24 months 
+9  Health & Safety 
+Employees are responsible for maintaining a safe home environment; the Company may 
+request a self‑assessment checklist once per year. 
+10  Performance & Review 
+KPIs mirror on‑site roles. Repeated SLA breaches (> 3 per month) trigger a performance review. 
+11  Non‑Compliance 
+Violations (e.g., sharing credentials, repeated unavailability) may result in remote‑work privilege 
+suspension and disciplinary action. 
+12  Policy Review 
+Reviewed every 18 months by HR & IT Security. 
+ 
+Document owner: HR Director | Next review: 2026‑12‑12
