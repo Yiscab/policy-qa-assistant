@@ -93,6 +93,5 @@ streamlit run app.py
 ## Author
 
 Built by **Yisca Biton** – Automation & AI Developer  
-Feel free to connect via LinkedIn or GitHub.
 
 ---
